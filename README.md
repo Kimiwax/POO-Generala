@@ -2,7 +2,7 @@
 Juego de la "Generala" que desarrolle para la materia de POO de la carrera de Analisis de Sistemas. 
 Realizado con .NET usando su recurso de GUI "Windows Forms", el lenguaje C# y Access para realizar el guardado de los ganadores de cada partida jugada
 
-##Menu De Inicio
+## Menu De Inicio
 
 ![menu](https://user-images.githubusercontent.com/83034131/201423171-86dfdd82-b436-4122-bcef-8349409df7c2.gif)
 
